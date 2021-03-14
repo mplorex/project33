@@ -1,1 +1,7 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+nav img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto;
+}
+/*# sourceMappingURL=main.css.map */
