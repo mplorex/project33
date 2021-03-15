@@ -1,7 +1,15 @@
-nav img {
-  display: -webkit-box;
+.container {
+  position: relative;
   display: -ms-flexbox;
-  display: flex;
-  margin: auto;
+  display: -webkit-box;
+}
+
+nav {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: lawngreen;
 }
 /*# sourceMappingURL=main.css.map */

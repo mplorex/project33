@@ -1,6 +1,10 @@
+@import "../abstracts/mixins";
+@import "./container";
+
 nav {
+    @include center;
+    background-color: lawngreen;
     img {
-        display: flex;
-        margin: auto;
+        
     }
 }
